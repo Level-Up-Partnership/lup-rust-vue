@@ -1,0 +1,28 @@
+[package]
+name = "rust-app"
+version = "0.1.0"
+edition = "2018"
+# build = "build.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# Utilities
+dotenv = "0.15.0"
+
+# HTTP Server/Client
+rocket = "0.5.0-rc.1"
+#rocket_contrib = { version = "0.4.10", features = ["postgres_pool", "json"] }
+rocket_codegen = "0.5.0-rc.1"
+serde = { version = "1.0.130", features = ["derive"] }
+serde_derive = "1.0.137"
+serde_json = "1.0.80"
+rocket_cors = "0.5.2"
+
+# Database
+# postgres = { version = "0.15.2", features = ["with-uuid", "with-serde_json", "with-chrono"] }
+
+
+[[bin]]
+name = "api-rust-test"
+path = "src/main.rs"
