@@ -4,10 +4,21 @@
 
 # Backend:
 
-Rebuild on every save.
+Rebuild on every save:
+
 `cargo watch -x run`
+
 To build rust package manager:
+
 `cargo build`
+
+To run:
+
+`cargo run`
+
+To run tests:
+
+`cargo test`
 
 # Frontend (webui):
 
