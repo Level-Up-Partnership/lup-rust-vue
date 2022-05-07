@@ -1,3 +1,7 @@
-!/target
-/target/*
-!/target/debug/build
+!target/
+
+target/*
+!target/debug/
+
+target/debug/*
+!target/debug/build/
