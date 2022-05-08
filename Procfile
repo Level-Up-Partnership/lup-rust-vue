@@ -1,1 +1,1 @@
-web: ROCKET_PORT=$PORT ROCKET_ENV=prod ./target/debug/build
+web: ROCKET_PORT=$PORT ROCKET_ENV=release ./target/debug/build
