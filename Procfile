@@ -1,1 +1,1 @@
-web: ROCKET_PORT=$PORT ROCKET_PROFILE=release ./target/debug/build
+web: ROCKET_PORT=$PORT ./target/debug/api-rust-test.exe
