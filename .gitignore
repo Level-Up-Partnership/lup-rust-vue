@@ -4,4 +4,4 @@ target/*
 !target/debug/
 
 target/debug/*
-!target/debug/build/
+!target/debug/api-rust-text.exe
