@@ -1,9 +1,9 @@
-!target/
+!server/target/
 
-target/*
-!target/release/
+server/target/*
+!server/target/release/
 
-target/release/*
-!target/release/api-rust-test.exe
-!target/release/api-rust-test.d
-!target/release/api-rust-test.pdb
+server/target/release/*
+!server/target/release/api-rust-test.exe
+!server/target/release/api-rust-test.d
+!server/target/release/api-rust-test.pdb
