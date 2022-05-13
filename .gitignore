@@ -1,0 +1,7 @@
+!target/
+
+target/*
+target/debug/
+
+# target/release/*
+# !target/release/api-rust-test.d
