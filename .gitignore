@@ -1,7 +1,7 @@
 !target/
 
 target/*
-!target/debug/
+!target/release/
 
-target/debug/*
-!target/debug/api-rust-test.exe
+target/release/*
+!target/release/api-rust-test.exe
