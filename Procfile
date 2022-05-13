@@ -1,1 +1,1 @@
-web: ROCKET_PORT=$PORT ROCKET_KEEP_ALIVE=0 ./server/target/release/api-rust-test.exe
+web: ROCKET_PORT=$PORT target/release/api-rust-test.exe
