@@ -1,0 +1,13 @@
+C:\Users\Hadi\Documents\github\lup-rust-vue\target\release\deps\pear-d786f68fc26fe465.rmeta: C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\lib.rs C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\macros.rs C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\input.rs C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\result.rs C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\debug.rs C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\combinators.rs C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\parsers.rs
+
+C:\Users\Hadi\Documents\github\lup-rust-vue\target\release\deps\libpear-d786f68fc26fe465.rlib: C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\lib.rs C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\macros.rs C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\input.rs C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\result.rs C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\debug.rs C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\combinators.rs C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\parsers.rs
+
+C:\Users\Hadi\Documents\github\lup-rust-vue\target\release\deps\pear-d786f68fc26fe465.d: C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\lib.rs C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\macros.rs C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\input.rs C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\result.rs C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\debug.rs C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\combinators.rs C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\parsers.rs
+
+C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\lib.rs:
+C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\macros.rs:
+C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\input.rs:
+C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\result.rs:
+C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\debug.rs:
+C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\combinators.rs:
+C:\Users\Hadi\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\parsers.rs:
